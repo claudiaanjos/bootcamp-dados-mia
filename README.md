@@ -1,5 +1,8 @@
-![](https://i.ibb.co/2KgC0HH/Captura-de-Tela-2022-08-06-a-s-11-25-49.png)
+# Bootcamp de Dados
 
+<p align="center">
+<img src="https://github.com/claudiaanjos/bootcamp-dados-mia/blob/main/Desafio%20Final/Certificado.png" width=50% />
+</p>
 
 ### 📚  Descrição
 
@@ -17,9 +20,6 @@ Bootcamp de Dados do [Mulheres em IA](https://mulheres-em-ia.github.io/).
 - 8 - Clustering
 - 9 - Ensemble
 
-<p align="center">
-<img src="https://github.com/claudiaanjos/bootcamp-dados-mia/blob/main/Desafio%20Final/Certificado.png" width=50% />
-</p>
 
 &nbsp;
 
