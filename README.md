@@ -1,12 +1,8 @@
 # Bootcamp de Dados
 
-<p align="center">
-<img src="https://github.com/claudiaanjos/bootcamp-dados-mia/blob/main/Desafio%20Final/Certificado.png" width=50% />
-</p>
-
 ### 📚  Descrição
 
-Bootcamp de Dados do [Mulheres em IA](https://mulheres-em-ia.github.io/). 
+Bootcamp de Dados desenvolvido pelas [Mulheres em IA](https://mulheres-em-ia.github.io/). 
 
 ### 🖥️  Aulas
 
