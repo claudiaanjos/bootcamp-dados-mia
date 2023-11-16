@@ -1,5 +1,9 @@
 # Bootcamp de Dados
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### 📚  Descrição
 
 Bootcamp de Dados desenvolvido pelas [Mulheres em IA](https://mulheres-em-ia.github.io/). 
